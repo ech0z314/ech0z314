@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>@ech0z314 - Passionate about IT and Cybersecurity</title>
+  <title>@xpx06 - Passionate about IT and Cybersecurity</title>
 </head>
 <body>
 
   <div>
-    <h1>👋 Hi, I’m @ech0z314</h1>
+    <h1>👋 Hi, I’m @xxpx06</h1>
     <p>👀 I’m a freelance developer and cybersecurity consultant, navigating the dynamic realms of technology while providing tailored solutions for clients. </p>
     <p>🌱 Despite my freelance work, I'm dedicated to my ongoing education and am currently pursuing a degree in engineering, continuously expanding my knowledge and skills in various aspects of IT and cybersecurity.</p>
     <p>💞️ I’m open to collaboration on intriguing projects related to cybersecurity, software development, and technological innovations. </p>
