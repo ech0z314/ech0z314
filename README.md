@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  @xpx06 - Passionate about IT and Cybersecurity
+  @xpx06 - IT and Cybersecurity
 </head>
 <body>
 
